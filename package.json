@@ -1,6 +1,6 @@
 {
   "name": "@kingkongdevs/vite-plugin-posthtml",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "A Vite plugin for PostHTML",
   "main": "index.js",
   "scripts": {
